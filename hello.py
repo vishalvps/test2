@@ -1,2 +1,2 @@
 print("Hello, world!")
-print("Welcome to project Test2")
+print("Welcome to the project Test2")
